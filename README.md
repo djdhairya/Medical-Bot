@@ -102,3 +102,5 @@ This project is licensed under the MIT License.
 For more information on how to use, configure, and extend the Llama2 Medical Bot, please refer to the Langchain documentation or contact the project maintainers.
 
 Happy coding with Llama2 Medical Bot! 🚀
+![Screenshot 2024-01-07 225919](https://github.com/djdhairya/Medical-Bot/assets/99894946/d4b9a36d-f81d-4f6e-bdf7-8ad8dfcd65da)
+
